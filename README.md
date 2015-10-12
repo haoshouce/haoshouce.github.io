@@ -1,1 +1,1 @@
-# haoshouce.github.io
+[好手册](http://www.haoshouce.com)
